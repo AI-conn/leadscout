@@ -1,0 +1,72 @@
+{
+  "target": "coffee shops",
+  "location": "Austin, TX",
+  "queries": [
+    "coffee shops in Austin, TX official website",
+    "best independent coffee shops in Austin, TX",
+    "coffee shops in Austin, TX contact"
+  ],
+  "candidates_seen": 21,
+  "leads": [
+    {
+      "name": "Fleet Coffee",
+      "website": "https://fleetcoffee.com/",
+      "source_type": "business_site",
+      "email": null,
+      "phone": null,
+      "address": "2427 Webberville Road",
+      "source_url": "https://fleetcoffee.com/",
+      "evidence": "Fleet Coffee | Specialty Coffee Roaster in Austin, TX",
+      "completeness": 0.5,
+      "discovery_snippet": "Fleet Coffee is an independent Austin coffee roaster with four neighborhood shops. Specialty espresso, single-origin pours, and made-from-scratch signature ..."
+    },
+    {
+      "name": "Local Coffee House in ,",
+      "website": "https://www.sweetwaterscafe.com/tx-austin-texas-capitol",
+      "source_type": "business_site",
+      "email": null,
+      "phone": "(737) 717-3103",
+      "address": null,
+      "source_url": "https://www.sweetwaterscafe.com/tx-austin-texas-capitol/",
+      "evidence": "Local Coffee House in ,  | Sweetwaters Coffee & Tea",
+      "completeness": 0.5,
+      "discovery_snippet": "316 West 12th Street, Austin, TX, 78701. (737) 717-3103. Hours. Monday-Thursday. 6:30am - 5:30pm. Friday. 6:30am - 5:30pm. Saturday. 8am - 2pm. Sunday."
+    },
+    {
+      "name": "Bennu Coffee",
+      "website": "https://www.bennucoffee.com/",
+      "source_type": "business_site",
+      "email": null,
+      "phone": null,
+      "address": null,
+      "source_url": "https://www.bennucoffee.com/",
+      "evidence": "Bennu Coffee: Austin's Premier 24-Hour Coffee Shop",
+      "completeness": 0.25,
+      "discovery_snippet": "Bennu Coffee, Austin's 24-hour coffee spot with rich espresso, cozy vibes, and a local menu\u2014a perfect space to work, study, or relax with quality coffee."
+    },
+    {
+      "name": "Cuv\u00e9e Coffee",
+      "website": "https://cuveecoffee.com/",
+      "source_type": "business_site",
+      "email": null,
+      "phone": null,
+      "address": null,
+      "source_url": "https://cuveecoffee.com/?srsltid=AU7gw4WorSvlUTDMklf2fpzLsWKjtJK8-HMZbWSdSxiXuK3VdTumKQZa",
+      "evidence": "Cuv\u00e9e Coffee: Always Something Brewing. Austin, TX",
+      "completeness": 0.25,
+      "discovery_snippet": "At Cuv\u00e9e, coffee isn't a job, it's a passion. Since 1998, we've become known for roasting exceptional, ethically sourced, sustainable coffee."
+    },
+    {
+      "name": "Austin Coffee Shops, Cafes, Tea Houses, & More",
+      "website": "https://www.austintexas.org/food-and-drink/coffee-and-tea",
+      "source_type": "business_site",
+      "email": null,
+      "phone": null,
+      "address": null,
+      "source_url": "https://www.austintexas.org/food-and-drink/coffee-and-tea/",
+      "evidence": "Austin Coffee Shops, Cafes, Tea Houses, & More | Visit Austin, TX",
+      "completeness": 0.25,
+      "discovery_snippet": "Austin's coffee shops feature gourmet coffee and rotating selections of roasters in unique settings. Shops like Sa-Ten Coffee and Eats and Wright Bros. Brew & ..."
+    }
+  ]
+}
